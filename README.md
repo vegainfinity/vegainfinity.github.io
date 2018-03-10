@@ -1,1 +1,1 @@
-# vegainfinity.github.io
+# http://vegainfinity.github.io
