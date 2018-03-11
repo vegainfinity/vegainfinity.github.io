@@ -20,14 +20,14 @@ color: white;
 }
 
 #nav{
-	float:right;
+	float:left;
 }
 
 
 #logo{
 	padding-right: 50px;
 	padding-top: 21px;
-	float: left;
+	float: right;
 	color: black;
 }
 
